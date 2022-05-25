@@ -1,5 +1,19 @@
-* {
+/* * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+} */
+
+#Pop1 {
+}
+
+#Pop1 p {
+}
+
+#Pop1 button {
+  padding: 25px 40px;
+  border: 0;
+  background-color: #ed6755;
+  font-size: 25px;
+  color: white;
 }
